@@ -1,0 +1,16 @@
+# https://github.com/huggingface/pytorch-transformers 
+
+Summary of the above as found on Reddit:
+
+The library is comprised of six architectures:
+
+```
+    - Google's BERT,
+    - OpenAI's GPT,
+    - OpenAI's GPT-2,
+    - Google/CMU's Transformer-XL
+    - XLNet 
+    - Facebook's XLM
+    
+```
+    * and a total of 27 pretrained model weights for these architectures.
